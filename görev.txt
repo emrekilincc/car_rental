@@ -1,0 +1,9 @@
+Yönetici
+-Şehir, şube, model, araç sayısı ekleme, çıkarma, listeleme
+
+Şube
+model, araç ekleme,çıkarma, listeleme
+
+Kullanıcı
+-Araç listeleme, kiralama
+
